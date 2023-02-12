@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "tina",
+    "middleName": "ch",
+    "lastName": "majumdar",
+    "email": "tony.ss@gmail.com"
+  },
+  {
+    "id": 2,
+    "firstName": "heba",
+    "middleName": "db",
+    "lastName": "khan",
+    "email": "hebss@gmail.com"
+  },
+  {
+    "id": 3,
+    "firstName": "sunny",
+    "middleName": "gg",
+    "lastName": "kum",
+    "email": "sunnyth@gmail.com"
+  },
+  {
+    "id": 4,
+    "firstName": "jaby",
+    "middleName": "dc",
+    "lastName": "ks",
+    "email": "jaby@gmail.com"
+  }
+]
